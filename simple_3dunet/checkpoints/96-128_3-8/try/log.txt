@@ -1,0 +1,240 @@
+Building a new model...
+Building a new model...
+3 1 2 ['001'] ['.DS_Store', '004']
+Starting training:
+            Epochs:300
+            Batch size:1
+            Learning rate:0.001
+            Training size:3
+            Validation size:1
+            
+Building a new model...
+3 1 2 ['001'] ['.DS_Store', '004']
+Starting training:
+            Epochs:300
+            Batch size:1
+            Learning rate:0.001
+            Training size:3
+            Validation size:1
+            
+Epoch 1/300 : Loss:0.8903, Valid loss: 0.9978, lr:0.001000 [0.0022] 198.23058485984802
+Epoch 2/300 : Loss:0.8878, Valid loss: 0.9978, lr:0.001000 [0.0022] 201.43859696388245
+Epoch 3/300 : Loss:0.8859, Valid loss: 0.9978, lr:0.001000 [0.0022] 197.47947478294373
+Epoch 4/300 : Loss:0.8853, Valid loss: 0.9978, lr:0.001000 [0.0022] 392.186053276062
+Epoch 5/300 : Loss:0.8841, Valid loss: 0.9978, lr:0.001000 [0.0022] 193.11844897270203
+Epoch 6/300 : Loss:0.8816, Valid loss: 0.9978, lr:0.001000 [0.0022] 189.84545588493347
+Epoch 7/300 : Loss:0.8812, Valid loss: 0.9978, lr:0.001000 [0.0022] 189.087721824646
+Epoch 8/300 : Loss:0.8783, Valid loss: 0.9978, lr:0.001000 [0.0022] 187.55638694763184
+Epoch 9/300 : Loss:0.8788, Valid loss: 0.9978, lr:0.001000 [0.0022] 187.37033796310425
+Epoch 10/300 : Loss:0.8781, Valid loss: 0.9978, lr:0.001000 [0.0022] 188.0519449710846
+Model 10 saved.
+Epoch 11/300 : Loss:0.8770, Valid loss: 0.9978, lr:0.001000 [0.0022] 187.27713084220886
+Epoch 12/300 : Loss:0.8739, Valid loss: 0.9978, lr:0.001000 [0.0022] 187.75838899612427
+Epoch 13/300 : Loss:0.8730, Valid loss: 0.9978, lr:0.001000 [0.0022] 187.58086514472961
+Epoch 14/300 : Loss:0.8739, Valid loss: 0.9978, lr:0.001000 [0.0022] 186.87551403045654
+Epoch 15/300 : Loss:0.8736, Valid loss: 0.9978, lr:0.001000 [0.0022] 186.94470381736755
+Epoch 16/300 : Loss:0.8706, Valid loss: 0.9978, lr:0.001000 [0.0022] 186.56090688705444
+Epoch 17/300 : Loss:0.8721, Valid loss: 0.9977, lr:0.001000 [0.0023] 186.66804599761963
+Epoch 18/300 : Loss:0.8712, Valid loss: 0.9976, lr:0.001000 [0.0024] 191.7588551044464
+Epoch 19/300 : Loss:0.8679, Valid loss: 0.9975, lr:0.001000 [0.0025] 193.41797995567322
+Epoch 20/300 : Loss:0.8689, Valid loss: 0.9974, lr:0.001000 [0.0026] 187.51167511940002
+Model 20 saved.
+Epoch 21/300 : Loss:0.8688, Valid loss: 0.9973, lr:0.001000 [0.0027] 186.6706051826477
+Epoch 22/300 : Loss:0.8680, Valid loss: 0.9971, lr:0.001000 [0.0029] 186.31106400489807
+Epoch 23/300 : Loss:0.8671, Valid loss: 0.9969, lr:0.001000 [0.0031] 186.2922158241272
+Epoch 24/300 : Loss:0.8659, Valid loss: 0.9966, lr:0.001000 [0.0034] 188.6259641647339
+Epoch 25/300 : Loss:0.8627, Valid loss: 0.9962, lr:0.001000 [0.0038] 185.34482717514038
+Epoch 26/300 : Loss:0.8616, Valid loss: 0.9958, lr:0.001000 [0.0042] 189.028626203537
+Epoch 27/300 : Loss:0.8625, Valid loss: 0.9954, lr:0.001000 [0.0046] 187.97945094108582
+Epoch 28/300 : Loss:0.8614, Valid loss: 0.9951, lr:0.001000 [0.0049] 187.37563800811768
+Epoch 29/300 : Loss:0.8599, Valid loss: 0.9949, lr:0.001000 [0.0051] 186.18028092384338
+Epoch 30/300 : Loss:0.8605, Valid loss: 0.9948, lr:0.001000 [0.0052] 186.29260420799255
+Model 30 saved.
+Epoch 31/300 : Loss:0.8561, Valid loss: 0.9946, lr:0.000700 [0.0054] 184.89260411262512
+Epoch 32/300 : Loss:0.8587, Valid loss: 0.9944, lr:0.000700 [0.0056] 184.53483200073242
+Epoch 33/300 : Loss:0.8579, Valid loss: 0.9943, lr:0.000700 [0.0057] 188.1235282421112
+Epoch 34/300 : Loss:0.8554, Valid loss: 0.9941, lr:0.000700 [0.0059] 190.7254250049591
+Epoch 35/300 : Loss:0.8527, Valid loss: 0.9941, lr:0.000700 [0.0059] 191.79399919509888
+Epoch 36/300 : Loss:0.8513, Valid loss: 0.9942, lr:0.000700 [0.0058] 188.98949813842773
+Epoch 37/300 : Loss:0.8503, Valid loss: 0.9941, lr:0.000700 [0.0059] 189.5181610584259
+Epoch 38/300 : Loss:0.8516, Valid loss: 0.9940, lr:0.000700 [0.006] 188.85257816314697
+Epoch 39/300 : Loss:0.8525, Valid loss: 0.9937, lr:0.000700 [0.0063] 188.63190293312073
+Epoch 40/300 : Loss:0.8495, Valid loss: 0.9942, lr:0.000700 [0.0058] 188.62928223609924
+Model 40 saved.
+Epoch 41/300 : Loss:0.8480, Valid loss: 0.9944, lr:0.000700 [0.0056] 188.04969334602356
+Epoch 42/300 : Loss:0.8446, Valid loss: 0.9948, lr:0.000700 [0.0052] 187.60320901870728
+Epoch 43/300 : Loss:0.8483, Valid loss: 0.9945, lr:0.000700 [0.0055] 187.72925400733948
+Epoch 44/300 : Loss:0.8421, Valid loss: 0.9944, lr:0.000700 [0.0056] 189.46595311164856
+Epoch 45/300 : Loss:0.8457, Valid loss: 0.9931, lr:0.000700 [0.0069] 189.13795399665833
+Epoch 46/300 : Loss:0.8394, Valid loss: 0.9939, lr:0.000700 [0.0061] 188.73551201820374
+Epoch 47/300 : Loss:0.8400, Valid loss: 0.9940, lr:0.000700 [0.006] 189.5659818649292
+Epoch 48/300 : Loss:0.8381, Valid loss: 0.9932, lr:0.000700 [0.0068] 192.0895619392395
+Epoch 49/300 : Loss:0.8384, Valid loss: 0.9928, lr:0.000700 [0.0072] 194.77169394493103
+Epoch 50/300 : Loss:0.8317, Valid loss: 0.9937, lr:0.000700 [0.0063] 198.8295350074768
+Model 50 saved.
+Epoch 51/300 : Loss:0.8297, Valid loss: 0.9927, lr:0.000700 [0.0073] 200.37903809547424
+Epoch 52/300 : Loss:0.8255, Valid loss: 0.9925, lr:0.000700 [0.0075] 192.03021478652954
+Epoch 53/300 : Loss:0.8257, Valid loss: 0.9924, lr:0.000700 [0.0076] 188.99399971961975
+Epoch 54/300 : Loss:0.8164, Valid loss: 0.9926, lr:0.000700 [0.0074] 190.4354259967804
+Epoch 55/300 : Loss:0.8107, Valid loss: 0.9926, lr:0.000700 [0.0074] 188.41231107711792
+Epoch 56/300 : Loss:0.8089, Valid loss: 0.9923, lr:0.000700 [0.0077] 189.27625393867493
+Epoch 57/300 : Loss:0.8048, Valid loss: 0.9921, lr:0.000700 [0.0079] 188.36675810813904
+Epoch 58/300 : Loss:0.7989, Valid loss: 0.9922, lr:0.000700 [0.0078] 188.45411467552185
+Epoch 59/300 : Loss:0.7932, Valid loss: 0.9931, lr:0.000700 [0.0069] 188.2987608909607
+Epoch 60/300 : Loss:0.7841, Valid loss: 0.9933, lr:0.000700 [0.0067] 187.77697610855103
+Model 60 saved.
+Epoch 61/300 : Loss:0.7763, Valid loss: 0.9926, lr:0.000490 [0.0074] 187.52501606941223
+Epoch 62/300 : Loss:0.7817, Valid loss: 0.9914, lr:0.000490 [0.0086] 186.6696047782898
+Epoch 63/300 : Loss:0.7673, Valid loss: 0.9907, lr:0.000490 [0.0093] 188.34047198295593
+Epoch 64/300 : Loss:0.7626, Valid loss: 0.9902, lr:0.000490 [0.0098] 186.16269421577454
+Epoch 65/300 : Loss:0.7659, Valid loss: 0.9910, lr:0.000490 [0.009] 187.84161710739136
+Epoch 66/300 : Loss:0.7569, Valid loss: 0.9916, lr:0.000490 [0.0084] 187.39885687828064
+Epoch 67/300 : Loss:0.7480, Valid loss: 0.9905, lr:0.000490 [0.0095] 186.31163501739502
+Epoch 68/300 : Loss:0.7454, Valid loss: 0.9916, lr:0.000490 [0.0084] 186.06352710723877
+Epoch 69/300 : Loss:0.7376, Valid loss: 0.9893, lr:0.000490 [0.0107] 186.73780417442322
+Epoch 70/300 : Loss:0.7365, Valid loss: 0.9876, lr:0.000490 [0.0124] 188.51006627082825
+Model 70 saved.
+Epoch 71/300 : Loss:0.7207, Valid loss: 0.9913, lr:0.000490 [0.0087] 187.3235228061676
+Epoch 72/300 : Loss:0.7237, Valid loss: 0.9939, lr:0.000490 [0.0061] 187.1206030845642
+Epoch 73/300 : Loss:0.7026, Valid loss: 0.9926, lr:0.000490 [0.0074] 187.40877485275269
+Epoch 74/300 : Loss:0.7097, Valid loss: 0.9997, lr:0.000490 [0.0003] 186.7088360786438
+Epoch 75/300 : Loss:0.6854, Valid loss: 0.9994, lr:0.000490 [0.0006] 188.88906598091125
+Epoch 76/300 : Loss:0.6899, Valid loss: 1.0000, lr:0.000490 [5.8529e-09] 188.43950486183167
+Epoch 77/300 : Loss:0.6723, Valid loss: 1.0000, lr:0.000490 [6.2239e-09] 191.07127213478088
+Epoch 78/300 : Loss:0.6696, Valid loss: 0.9526, lr:0.000490 [0.0474] 191.97040796279907
+Epoch 79/300 : Loss:0.6412, Valid loss: 0.9633, lr:0.000490 [0.0367] 192.45104908943176
+Epoch 80/300 : Loss:0.6266, Valid loss: 0.9904, lr:0.000490 [0.0096] 197.08630990982056
+Model 80 saved.
+Epoch 81/300 : Loss:0.6026, Valid loss: 0.9921, lr:0.000490 [0.0079] 192.21225690841675
+Epoch 82/300 : Loss:0.5799, Valid loss: 0.9859, lr:0.000490 [0.0141] 188.78847694396973
+Epoch 83/300 : Loss:0.6061, Valid loss: 0.9785, lr:0.000490 [0.0215] 189.6153848171234
+Epoch 84/300 : Loss:0.5486, Valid loss: 0.9891, lr:0.000490 [0.0109] 189.6921968460083
+Epoch 85/300 : Loss:0.5345, Valid loss: 0.9950, lr:0.000490 [0.005] 188.36505794525146
+Epoch 86/300 : Loss:0.5191, Valid loss: 1.0000, lr:0.000490 [5.1595e-09] 187.39224696159363
+Epoch 87/300 : Loss:0.6657, Valid loss: 1.0000, lr:0.000490 [6.1443e-09] 187.0865352153778
+Epoch 88/300 : Loss:0.5785, Valid loss: 0.9859, lr:0.000490 [0.0141] 191.19444012641907
+Epoch 89/300 : Loss:0.5871, Valid loss: 0.9712, lr:0.000490 [0.0288] 188.58679008483887
+Epoch 90/300 : Loss:0.6090, Valid loss: 0.9749, lr:0.000490 [0.0251] 187.90503883361816
+Model 90 saved.
+Epoch 91/300 : Loss:0.5948, Valid loss: 0.9800, lr:0.000343 [0.02] 187.0732491016388
+Epoch 92/300 : Loss:0.5881, Valid loss: 0.9863, lr:0.000343 [0.0137] 186.73162412643433
+Epoch 93/300 : Loss:0.5349, Valid loss: 0.9881, lr:0.000343 [0.0119] 185.07596802711487
+Epoch 94/300 : Loss:0.5204, Valid loss: 0.9890, lr:0.000343 [0.011] 185.00232887268066
+Epoch 95/300 : Loss:0.5090, Valid loss: 0.9908, lr:0.000343 [0.0092] 184.91445112228394
+Epoch 96/300 : Loss:0.5011, Valid loss: 0.9916, lr:0.000343 [0.0084] 184.61611700057983
+Epoch 97/300 : Loss:0.5684, Valid loss: 0.9986, lr:0.000343 [0.0014] 184.9733681678772
+Epoch 98/300 : Loss:0.4883, Valid loss: 0.9975, lr:0.000343 [0.0025] 187.2200198173523
+Epoch 99/300 : Loss:0.5652, Valid loss: 0.9992, lr:0.000343 [0.0008] 184.71701502799988
+Epoch 100/300 : Loss:0.4756, Valid loss: 1.0000, lr:0.000343 [3.5798e-09] 182.9651849269867
+Model 100 saved.
+Epoch 101/300 : Loss:0.4755, Valid loss: 1.0000, lr:0.000343 [4.1961e-09] 178.30753016471863
+Epoch 102/300 : Loss:0.5594, Valid loss: 1.0000, lr:0.000343 [4.1736e-09] 173.43787693977356
+Epoch 103/300 : Loss:0.5675, Valid loss: 0.9883, lr:0.000343 [0.0117] 178.38584399223328
+Epoch 104/300 : Loss:0.5010, Valid loss: 0.9864, lr:0.000343 [0.0136] 174.1923530101776
+Epoch 105/300 : Loss:0.5592, Valid loss: 0.9911, lr:0.000343 [0.0089] 174.73974704742432
+Epoch 106/300 : Loss:0.4777, Valid loss: 0.9951, lr:0.000343 [0.0049] 175.1482651233673
+Epoch 107/300 : Loss:0.5544, Valid loss: 0.9961, lr:0.000343 [0.0039] 177.1665563583374
+Epoch 108/300 : Loss:0.4564, Valid loss: 0.9980, lr:0.000343 [0.002] 174.41735410690308
+Epoch 109/300 : Loss:0.4495, Valid loss: 1.0000, lr:0.000343 [3.7659e-09] 178.99558210372925
+Epoch 110/300 : Loss:0.4458, Valid loss: 1.0000, lr:0.000343 [4.628e-09] 182.35810780525208
+Model 110 saved.
+Epoch 111/300 : Loss:0.4460, Valid loss: 0.9999, lr:0.000343 [6.111e-05] 193.18787622451782
+Epoch 112/300 : Loss:0.4381, Valid loss: 1.0000, lr:0.000343 [4.3136e-05] 186.55584001541138
+Epoch 113/300 : Loss:0.4413, Valid loss: 1.0000, lr:0.000343 [4.4754e-09] 39746.90678024292
+Epoch 114/300 : Loss:0.5436, Valid loss: 0.9997, lr:0.000343 [0.0003] 650.5925569534302
+Epoch 115/300 : Loss:0.5423, Valid loss: 1.0000, lr:0.000343 [4.3947e-09] 197.1503939628601
+Epoch 116/300 : Loss:0.5416, Valid loss: 1.0000, lr:0.000343 [4.0303e-09] 188.52718496322632
+Epoch 117/300 : Loss:0.4273, Valid loss: 1.0000, lr:0.000343 [4.7305e-09] 187.16753363609314
+Epoch 118/300 : Loss:0.4311, Valid loss: 1.0000, lr:0.000343 [3.876e-09] 187.4432933330536
+Epoch 119/300 : Loss:0.4394, Valid loss: 0.9998, lr:0.000343 [0.0002] 186.46308207511902
+Epoch 120/300 : Loss:0.5432, Valid loss: 1.0000, lr:0.000343 [6.1745e-09] 187.883868932724
+Model 120 saved.
+Epoch 121/300 : Loss:0.5552, Valid loss: 1.0000, lr:0.000240 [6.0133e-09] 187.14580011367798
+Epoch 122/300 : Loss:0.4710, Valid loss: 0.9663, lr:0.000240 [0.0337] 185.60729503631592
+Epoch 123/300 : Loss:0.4803, Valid loss: 0.9506, lr:0.000240 [0.0494] 185.23217511177063
+Epoch 124/300 : Loss:0.5643, Valid loss: 0.9491, lr:0.000240 [0.0509] 185.64588332176208
+Epoch 125/300 : Loss:0.5657, Valid loss: 0.9535, lr:0.000240 [0.0465] 186.58078408241272
+Epoch 126/300 : Loss:0.5612, Valid loss: 0.9607, lr:0.000240 [0.0393] 185.42713618278503
+Epoch 127/300 : Loss:0.5560, Valid loss: 0.9680, lr:0.000240 [0.032] 185.62111401557922
+Epoch 128/300 : Loss:0.4781, Valid loss: 0.9763, lr:0.000240 [0.0237] 186.09240794181824
+Epoch 129/300 : Loss:0.4692, Valid loss: 0.9831, lr:0.000240 [0.0169] 186.78480100631714
+Epoch 130/300 : Loss:0.4641, Valid loss: 0.9900, lr:0.000240 [0.01] 185.58526492118835
+Model 130 saved.
+Epoch 131/300 : Loss:0.4541, Valid loss: 0.9939, lr:0.000240 [0.0061] 179.52297401428223
+Epoch 132/300 : Loss:0.4470, Valid loss: 0.9984, lr:0.000240 [0.0016] 178.14704012870789
+Epoch 133/300 : Loss:0.5462, Valid loss: 0.9987, lr:0.000240 [0.0013] 179.04306197166443
+Epoch 134/300 : Loss:0.4320, Valid loss: 0.9985, lr:0.000240 [0.0015] 3178.3208298683167
+Epoch 135/300 : Loss:0.5396, Valid loss: 0.9971, lr:0.000240 [0.0029] 177.63083386421204
+Epoch 136/300 : Loss:0.5383, Valid loss: 0.9945, lr:0.000240 [0.0055] 175.42054200172424
+Epoch 137/300 : Loss:0.5364, Valid loss: 0.9906, lr:0.000240 [0.0094] 178.76662588119507
+Epoch 138/300 : Loss:0.5349, Valid loss: 0.9879, lr:0.000240 [0.0121] 177.85372686386108
+Epoch 139/300 : Loss:0.4056, Valid loss: 0.9950, lr:0.000240 [0.005] 178.52746891975403
+Epoch 140/300 : Loss:0.4179, Valid loss: 0.9585, lr:0.000240 [0.0415] 5176.257869005203
+Model 140 saved.
+Epoch 141/300 : Loss:0.4171, Valid loss: 0.9564, lr:0.000240 [0.0436] 191.87643790245056
+Epoch 142/300 : Loss:0.3931, Valid loss: 0.9596, lr:0.000240 [0.0404] 199.4926562309265
+Epoch 143/300 : Loss:0.3894, Valid loss: 0.9265, lr:0.000240 [0.0735] 191.76667022705078
+Epoch 144/300 : Loss:0.3957, Valid loss: 0.9324, lr:0.000240 [0.0676] 188.98848414421082
+Epoch 145/300 : Loss:0.3879, Valid loss: 0.9201, lr:0.000240 [0.0799] 188.78909301757812
+Epoch 146/300 : Loss:0.3810, Valid loss: 0.9088, lr:0.000240 [0.0912] 188.9668869972229
+Epoch 147/300 : Loss:0.3819, Valid loss: 0.8957, lr:0.000240 [0.1043] 188.8195400238037
+Epoch 148/300 : Loss:0.5268, Valid loss: 0.8935, lr:0.000240 [0.1065] 190.50914096832275
+Epoch 149/300 : Loss:0.3828, Valid loss: 0.8981, lr:0.000240 [0.1019] 190.20942091941833
+Epoch 150/300 : Loss:0.3820, Valid loss: 0.9182, lr:0.000240 [0.0818] 192.43870615959167
+Model 150 saved.
+Epoch 151/300 : Loss:0.5292, Valid loss: 0.9194, lr:0.000168 [0.0806] 191.8835289478302
+Epoch 152/300 : Loss:0.3808, Valid loss: 0.9121, lr:0.000168 [0.0879] 193.07497191429138
+Epoch 153/300 : Loss:0.3796, Valid loss: 0.9049, lr:0.000168 [0.0951] 194.5391821861267
+Epoch 154/300 : Loss:0.3798, Valid loss: 0.8973, lr:0.000168 [0.1027] 191.90755796432495
+Epoch 155/300 : Loss:0.3808, Valid loss: 0.9029, lr:0.000168 [0.0971] 191.53534483909607
+Epoch 156/300 : Loss:0.3796, Valid loss: 0.9083, lr:0.000168 [0.0917] 190.8823549747467
+Epoch 157/300 : Loss:0.5236, Valid loss: 0.9147, lr:0.000168 [0.0853] 189.45566082000732
+Epoch 158/300 : Loss:0.5249, Valid loss: 0.9206, lr:0.000168 [0.0794] 190.75570392608643
+Epoch 159/300 : Loss:0.5244, Valid loss: 0.9226, lr:0.000168 [0.0774] 193.62990021705627
+Epoch 160/300 : Loss:0.3752, Valid loss: 0.9209, lr:0.000168 [0.0791] 193.44323801994324
+Model 160 saved.
+Building a new model...
+24 8 8 ['37.nrrd', '29.nrrd', '6.nrrd', '0.nrrd', '8.nrrd', '24.nrrd', '30.nrrd', '18.nrrd'] ['35.nrrd', '36.nrrd', '17.nrrd', '25.nrrd', '21.nrrd', '22.nrrd', '3.nrrd', '23.nrrd']
+Starting training:
+            Epochs:300
+            Batch size:1
+            Learning rate:0.001
+            Training size:24
+            Validation size:8
+            
+Building a new model...
+24 8 8 ['2.nrrd', '4.nrrd', '13.nrrd', '12.nrrd', '31.nrrd', '26.nrrd', '34.nrrd', '14.nrrd', '19.nrrd', '33.nrrd', '28.nrrd', '15.nrrd', '20.nrrd', '10.nrrd', '27.nrrd', '38.nrrd', '16.nrrd', '5.nrrd', '32.nrrd', '7.nrrd', '9.nrrd', '1.nrrd', '11.nrrd', '39.nrrd'] ['37.nrrd', '29.nrrd', '6.nrrd', '0.nrrd', '8.nrrd', '24.nrrd', '30.nrrd', '18.nrrd'] ['35.nrrd', '36.nrrd', '17.nrrd', '25.nrrd', '21.nrrd', '22.nrrd', '3.nrrd', '23.nrrd']
+Starting training:
+            Epochs:300
+            Batch size:1
+            Learning rate:0.001
+            Training size:24
+            Validation size:8
+            
+Building a new model...
+24 8 8 ['2.nrrd', '4.nrrd', '13.nrrd', '12.nrrd', '31.nrrd', '26.nrrd', '34.nrrd', '14.nrrd', '19.nrrd', '33.nrrd', '28.nrrd', '15.nrrd', '20.nrrd', '10.nrrd', '27.nrrd', '38.nrrd', '16.nrrd', '5.nrrd', '32.nrrd', '7.nrrd', '9.nrrd', '1.nrrd', '11.nrrd', '39.nrrd'] ['37.nrrd', '29.nrrd', '6.nrrd', '0.nrrd', '8.nrrd', '24.nrrd', '30.nrrd', '18.nrrd'] ['35.nrrd', '36.nrrd', '17.nrrd', '25.nrrd', '21.nrrd', '22.nrrd', '3.nrrd', '23.nrrd']
+Starting training:
+            Epochs:300
+            Batch size:1
+            Learning rate:0.001
+            Training size:24
+            Validation size:8
+            
+Building a new model...
+24 8 8 ['2.nrrd', '4.nrrd', '13.nrrd', '12.nrrd', '31.nrrd', '26.nrrd', '34.nrrd', '14.nrrd', '19.nrrd', '33.nrrd', '28.nrrd', '15.nrrd', '20.nrrd', '10.nrrd', '27.nrrd', '38.nrrd', '16.nrrd', '5.nrrd', '32.nrrd', '7.nrrd', '9.nrrd', '1.nrrd', '11.nrrd', '39.nrrd'] ['37.nrrd', '29.nrrd', '6.nrrd', '0.nrrd', '8.nrrd', '24.nrrd', '30.nrrd', '18.nrrd'] ['35.nrrd', '36.nrrd', '17.nrrd', '25.nrrd', '21.nrrd', '22.nrrd', '3.nrrd', '23.nrrd']
+Starting training:
+            Epochs:300
+            Batch size:1
+            Learning rate:0.001
+            Training size:24
+            Validation size:8
+            
+Building a new model...
+24 8 8 ['2.nrrd', '4.nrrd', '13.nrrd', '12.nrrd', '31.nrrd', '26.nrrd', '34.nrrd', '14.nrrd', '19.nrrd', '33.nrrd', '28.nrrd', '15.nrrd', '20.nrrd', '10.nrrd', '27.nrrd', '38.nrrd', '16.nrrd', '5.nrrd', '32.nrrd', '7.nrrd', '9.nrrd', '1.nrrd', '11.nrrd', '39.nrrd'] ['37.nrrd', '29.nrrd', '6.nrrd', '0.nrrd', '8.nrrd', '24.nrrd', '30.nrrd', '18.nrrd'] ['35.nrrd', '36.nrrd', '17.nrrd', '25.nrrd', '21.nrrd', '22.nrrd', '3.nrrd', '23.nrrd']
+Starting training:
+            Epochs:300
+            Batch size:1
+            Learning rate:0.001
+            Training size:24
+            Validation size:8
+            
